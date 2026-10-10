@@ -1,0 +1,9 @@
+asset_path,collection,expected_bytes,expected_sha256,state,revision
+deposits/coral/field-notes.txt,Legacy Reef,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,active,1
+deposits/coral/transect-a.csv,Reef Survey,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,active,2
+deposits/kelp/photo-caption.txt,Kelp Canopy,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,active,3
+deposits/seagrass/map.txt,Lagoon Atlas,3,ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad,active,1
+deposits/coral/field-notes.txt,Reef Survey,3,ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad,active,2
+deposits/retired/voice.txt,Oral History,3,ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad,retired,4
+../escape.txt,Bad Path,3,ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad,active,9
+deposits/kelp/photo-caption.txt,Kelp Canopy,not-a-size,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,active,99
